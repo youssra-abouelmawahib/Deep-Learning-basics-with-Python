@@ -1,6 +1,6 @@
 # Deep Learning Basics with PyTorch
 
-Lab 1 of the VICO course at Nantes Université (2026/2027): a first full deep learning pipeline in PyTorch, from loading data to training a model, making predictions and evaluating them.
+A deep learning lab from Nantes Université (2026/2027): a first full deep learning pipeline in PyTorch, from loading data to training a model, making predictions and evaluating them.
 
 The lab was written by Alexandre Bruckert (Nantes Université) and is based on the official [PyTorch "Learn the Basics" tutorial](https://docs.pytorch.org/tutorials/beginner/basics/intro.html). This repository contains my completed version.
 
@@ -8,7 +8,7 @@ The lab was written by Alexandre Bruckert (Nantes Université) and is based on t
 
 | Path | Description |
 | --- | --- |
-| `TP1_VICO_2026 (2).ipynb` | The lab notebook, with my answers and experiments |
+| `pytorch_basics.ipynb` | The lab notebook, with my answers and experiments |
 | `data/FashionMNIST/raw` | The Fashion-MNIST dataset files used in the lab |
 
 ## What the lab covers
